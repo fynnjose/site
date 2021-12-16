@@ -1,0 +1,49 @@
+.container{
+    border: 1px solid red;
+    background-color:white
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 20px;
+}
+.box{
+    /* border: 1px solid blue; */
+    border-radius: 5px;
+    background:#fbffff;
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    height: auto;
+}
+
+.box1{  
+    width: 85%;
+    height: auto;
+    margin: 20px 20px;
+    padding: 0px auto;
+    
+}
+.box1 input{
+    
+    /* border-bottom: white; */
+    /* border:transparent */
+    border:2px solid lightblue;
+    border-radius: 10px;
+  
+    width: 75%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px 20px 0px 60px;
+    
+
+}
+#gender, #sub{
+    margin: auto 20px;
+}
+#gender label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: silver;
+}
+#sub input{
+    margin: auto;
+}
